@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbdullahHaque
+- 👋 Hi, I’m AbdullahHaque
 - 👀 I’m interested in Games and game developing
 - 🌱 I’m currently learning BTech CSE
 - 💞️ I’m looking to collaborate on anything related coding, especially games
